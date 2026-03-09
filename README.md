@@ -13,3 +13,17 @@ Overall Project workflow:
 * Plot based on quantiles, or any other specified break method
 * Plot on interactive map using leafmap
 * Make a function that does all of these steps automatically so that this workflow can work for other parts of San Francisco, and other datasets too, if possible.
+
+Example Output: 
+
+San Francisco Downtown: 
+<img width="1431" height="601" alt="Screenshot 2026-03-09 at 12 40 08 AM" src="https://github.com/user-attachments/assets/96e53d4f-fcd7-4722-bc68-1847a8ee42ec" />
+
+Close Up: 
+<img width="1431" height="599" alt="Screenshot 2026-03-09 at 12 40 19 AM" src="https://github.com/user-attachments/assets/fdb411d8-9da7-4454-8b47-272a280f0559" />
+
+
+Residential Area in SF:
+
+<img width="1416" height="599" alt="Screenshot 2026-03-09 at 12 41 11 AM" src="https://github.com/user-attachments/assets/179872c3-ff4b-4fea-a47b-c5dee49b4cb6" />
+
